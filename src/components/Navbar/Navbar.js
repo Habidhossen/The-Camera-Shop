@@ -5,10 +5,10 @@ import "./Navbar.css";
 
 const Navbar = () => {
   return (
-    <div className="py-6 bg-slate-50 shadow-sm sticky top-0">
+    <div className="py-5 shadow-sm sticky top-0">
       <div className="flex justify-between container mx-auto">
         <div>
-          <h1 className="text-2xl font-bold text-slate-800">
+          <h1 className="nav-logo">
             <Link to="/">The Camera Shop</Link>
           </h1>
         </div>
