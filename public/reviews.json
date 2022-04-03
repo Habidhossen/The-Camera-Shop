@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Flinn J.",
+    "review": "I am really satisfied with my Canon Camera. I will refer everyone I know. You guys rock! The best on the net!",
+    "rating": "5",
+    "image": "https://thispersondoesnotexist.com/"
+  },
+  {
+    "id": 2,
+    "name": "Lilias G.",
+    "review": "Very easy to use. No matter where you go, Canon Camera is the coolest, most happening thing around! Wow what great service, I love it!",
+    "rating": "4",
+    "image": "https://thispersondoesnotexist.com/"
+  },
+  {
+    "id": 3,
+    "name": "Joel P.",
+    "review": "This is simply unbelievable! Buy this now. I couldn't have asked for more than this.",
+    "rating": "4",
+    "image": "https://thispersondoesnotexist.com/"
+  },
+  {
+    "id": 4,
+    "name": "Berri L.",
+    "review": "Camera should be nominated for service of the year. Buy this now. If you aren't sure, always go for Camera. It fits our needs perfectly.",
+    "rating": "5",
+    "image": "https://thispersondoesnotexist.com/"
+  },
+  {
+    "id": 5,
+    "name": "Welby J.",
+    "review": "Great job, I will definitely be ordering again!",
+    "rating": "4",
+    "image": "https://thispersondoesnotexist.com/"
+  },
+  {
+    "id": 6,
+    "name": "Celestyna T.",
+    "review": "I use this product. I was amazed at the quality of Camera. I am so pleased with this product. Really good.",
+    "rating": "4",
+    "image": "https://thispersondoesnotexist.com/"
+  },
+  {
+    "id": 7,
+    "name": "Nissy Q.",
+    "review": "Absolutely wonderful! You guys rock! The very best. I use Camera often.",
+    "rating": "5",
+    "image": "https://thispersondoesnotexist.com/"
+  },
+  {
+    "id": 8,
+    "name": "Jeni W.",
+    "review": "I just can't get enough of Camera. I want to get a T-Shirt with Camera on it so I can show it off to everyone.",
+    "rating": "4",
+    "image": "https://thispersondoesnotexist.com/"
+  },
+  {
+    "id": 9,
+    "name": "Logan N.",
+    "review": "I love your system. I don't know what else to say.",
+    "rating": "4",
+    "image": "https://thispersondoesnotexist.com/"
+  }
+]
