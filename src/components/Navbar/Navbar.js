@@ -5,7 +5,7 @@ import "./Navbar.css";
 
 const Navbar = () => {
   return (
-    <div className="py-5 shadow-sm sticky top-0 bg-white">
+    <div className="py-5 shadow-sm sticky top-0 bg-white z-10">
       <div className="flex justify-between container mx-auto">
         <div>
           <h1 className="nav-logo">
