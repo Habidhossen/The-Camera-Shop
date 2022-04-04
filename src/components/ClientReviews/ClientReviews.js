@@ -1,9 +1,11 @@
 import React from "react";
+import ReviewCard from "../ReviewCard/ReviewCard";
+import "./ClientReviews.css";
 
 const ClientReviews = () => {
   return (
-    <div>
-      <h1>Reviews</h1>
+    <div className="reviews-container">
+      <ReviewCard />
     </div>
   );
 };

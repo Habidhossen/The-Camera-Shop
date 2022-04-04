@@ -1,0 +1,24 @@
+.custom-card {
+  background-color: white;
+  padding: 30px 15px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+.card-img {
+  width: 50px;
+  border-radius: 50%;
+}
+.card-title {
+  margin-top: 12px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.card-text {
+}
+.card-rating {
+  margin: 14px 0 12px;
+}
