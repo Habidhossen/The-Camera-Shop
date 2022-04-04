@@ -1,5 +1,14 @@
 .reviews-container {
-  background-color: #f2f2f2;
+  background-color: #f4f4f4;
   height: 100%;
   padding: 20px;
+}
+.reviews-customer-title {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  margin: 8px 0 25px;
+}
+.reviews-customer-title span {
+  color: #4d77ff;
 }

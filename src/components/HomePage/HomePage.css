@@ -16,10 +16,31 @@
 .banner-btn {
   background-color: #4d77ff;
   color: white;
-  padding: 10px 30px;
-  font-size: 16px;
+  padding: 12px 30px;
+  font-size: 14px;
   letter-spacing: 2px;
-  text-transform: uppercase;
   font-weight: 500;
   border-radius: 8px;
+}
+.home-customer-reviews-container {
+  background-color: #f9f9f9;
+  height: 100%;
+  padding: 20px;
+}
+.see-reviews-btn {
+  background-color: white;
+  color: #4d77ff;
+  border: 1px solid #4d77ff;
+  padding: 10px 30px;
+  font-size: 14px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  border-radius: 8px;
+  margin: 28px 0 10px;
+  transition: 0.3s;
+}
+.see-reviews-btn:hover {
+  background-color: #4d77ff;
+  color: white;
+  border: 1px solid #4d77ff;
 }
