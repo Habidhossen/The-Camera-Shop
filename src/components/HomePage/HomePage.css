@@ -44,3 +44,19 @@
   color: white;
   border: 1px solid #4d77ff;
 }
+/* for mobile devices */
+@media screen and (max-width: 688px) {
+  .banner-section {
+    height: 100%;
+  }
+  .banner-container {
+    text-align: center;
+  }
+  .banner-title {
+    font-size: 42px;
+    line-height: 60px;
+  }
+  .reviews-customer-title {
+    font-size: 24px;
+  }
+}

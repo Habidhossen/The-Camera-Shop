@@ -14,8 +14,8 @@ const HomePage = () => {
   return (
     <div>
       {/* banner section */}
-      <div className="banner-section items-center grid grid-cols-2 container mx-auto">
-        <div>
+      <div className="banner-section items-center grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 container mx-auto">
+        <div className="banner-container">
           <h1 className="banner-title">
             Capture Your <span>Beautiful</span> Moments
           </h1>
@@ -37,7 +37,7 @@ const HomePage = () => {
         <h1 className="reviews-customer-title">
           Customer <span>Reviews(3)</span>
         </h1>
-        <div className="grid grid-cols-3 gap-6 container mx-auto">
+        <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:md:grid-cols-3 gap-6 container mx-auto">
           {reviews.slice(0, 3).map((review) => (
             <ReviewCard key={review.id} review={review} />
           ))}

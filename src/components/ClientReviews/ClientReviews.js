@@ -11,7 +11,7 @@ const ClientReviews = () => {
       <h1 className="reviews-customer-title">
         Our Happy <span>Customer</span> Say!
       </h1>
-      <div className="grid grid-cols-3 gap-6 container mx-auto">
+      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:md:grid-cols-3 gap-6 container mx-auto">
         {reviews.map((review) => (
           <ReviewCard key={review.id} review={review} />
         ))}
